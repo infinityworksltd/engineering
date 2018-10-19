@@ -14,7 +14,7 @@ The National DevOps Conference is a 2 day conference, hosted at the Millennium G
 
 ## Kotter's Model/Cycle
 
-If you want to implement change in an organisation, something we regularly do as consultant, you'll probably need this in your back pocket. The most important part of starting a change is to **create urgency** or a need for the change, otherwise it will be less likely to happen.
+If you want to implement change in an organisation, something we regularly do as consultants, you'll probably need this in your back pocket. The most important part of starting a change is to **create urgency** or a need for the change, otherwise it will be less likely to happen.
 
 1. Create: A need for change and urgency
 2. Build: An internal team to manage the change
