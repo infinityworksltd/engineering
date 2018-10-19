@@ -53,7 +53,7 @@ She also recommends against Continuous Improvement, but instead we should do "Dy
 
 Blue team, colloquially means an internal security team. On any project, we should all take responsibility for security. Aubrey Stearn gave us some really handy ideas and tools to help automate some of this burden. All of these also help us ever present goal of Shifting Left, trying to pull as much forward to the start as possible so we derisk everything.
 
-* [Snky](https://snyk.io/) will automatically check your dependencies for vulnerabilities
+* [Snyk](https://snyk.io/) will automatically check your dependencies for vulnerabilities
 * [Greenkeeper](https://greenkeeper.io/) for NPM projects - can auto upgrade your dependencies (after testing them of course!)
 * Using containers? [Clair](https://coreos.com/clair/docs/latest/) can check for vulnerabilities in them for you.
 * Running a website? [Detectify](https://detectify.com) can automate pen-testing.
