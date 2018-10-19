@@ -57,7 +57,7 @@ Blue team, colloquially means an internal security team. On any project, we shou
 * [Greenkeeper](https://greenkeeper.io/) for NPM projects - can auto upgrade your dependencies (after testing them of course!)
 * Using containers? [Clair](https://coreos.com/clair/docs/latest/) can check for vulnerabilities in them for you.
 * Running a website? [Detectify](https://detectify.com) can automate pen-testing.
-* If you're running Kubernetes, you might not all of the [default permissions](https://kubesec.io/basics/containers-securitycontext-capabilities-drop-index-all). Use `drop all` then only add back what you need.
+* If you're running Kubernetes, you probably don't need all of the [default permissions](https://kubesec.io/basics/containers-securitycontext-capabilities-drop-index-all). Use `drop all` then only add back what you need.
 * Multi stage docker builds can limit the blast radius of build tool vulnerabilities, run the minimum possible in the container that ends up in production.
 
 ## Wrap up
