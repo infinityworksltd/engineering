@@ -4,7 +4,7 @@ title: What's in a version?
 author: jake_hall
 ---
 
-Building distributed systems in using a microservice pattern is hard. We're always looking for ways to automate any manual processes, or anything that is difficult. Computers don't make mistakes, but humans aren't infallible. The more we can rely on a machine-led process, the more reliable a release process can be. This is the journey of versioning and releasing for one of our projects.
+Building distributed systems in using a microservice pattern is hard. We're always looking for ways to automate any manual processes, or anything that is difficult. Computers don't make mistakes, and humans aren't infallible. The more we can rely on a machine-led process, the more reliable a release process can be. This is the journey of versioning and releasing for one of our projects.
 
 # In the beginning...
 
@@ -38,7 +38,7 @@ Specifying the version number as zero is a special value that actually means "-1
 
 ----
 
-These changes now allow us to deploy the same change repeatedly until we get a success, without having to do any manual faffing about. This is massively speeds up the engineering teams, but we still have that small issue of version numbers looking like this `c9b8132ef905721c0a1a2a342c5f321c636001ce` and `b576368621a067c5b9380b3da8cf7e27dabaa916`. Which one is the older just by looking at them? Who knows. We have to ask, rather than just knowing by looking at it. We also have no idea how big the change was! Back to the drawing board.
+These changes now allow us to deploy the same change repeatedly until we get a success, without having to do any manual faffing about. This massively speeds up the engineering teams, but we still have that small issue of version numbers looking like this `c9b8132ef905721c0a1a2a342c5f321c636001ce` and `b576368621a067c5b9380b3da8cf7e27dabaa916`. Which one is the older just by looking at them? Who knows. We have to ask, rather than just knowing by looking at it. We also have no idea how big the change was! Back to the drawing board.
 
 # Semantic Versioning to the rescue
 
