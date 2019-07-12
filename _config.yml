@@ -48,13 +48,13 @@ authors:
     web: https://www.infinityworks.com
     web_short_name: infinityworks.com
     linkedin: paul-lucas-3209203
-  _caldwell:
-    display_name:  Caldwell
+  ivor_caldwell:
+    display_name: Ivor Caldwell
     gravatar: f84f7e176a2ffcb9010222f816b97547
-    email: .caldwell@infinityworks.com
-    web: https://caldwell.org
-    web_short_name: caldwell.org
-    linkedin: -caldwell-95930a6
+    email: ivor.caldwell@infinityworks.com
+    web: https://ivorcaldwell.org
+    web_short_name: ivorcaldwell.org
+    linkedin: ivor-caldwell-95930a6
   flock3:
     display_name: Thomas Gray
     email: thomas.gray@infinityworks.com
