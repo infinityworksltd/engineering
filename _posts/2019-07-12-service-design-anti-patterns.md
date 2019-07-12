@@ -4,7 +4,7 @@ title: Service Design Anti-patterns
 author: sam_quayle
 ---
 
-![A platform at a tube station which says 'Mind the gap'!]({{ "/images/Mind_the_gap.jpg"}})
+![A platform at a tube station which says 'Mind the gap'!]({{ "/images/mind_the_gap.jpg"}})
 
 Despite its recent heightened profile – thanks in no small part to the efforts of the UK’s Government Digital Services – the field of Service Design is not as new as you might think. According to [this article](https://service-design.co/book-a-tiny-history-of-service-design-368ed603797c), you can trace its origins back to the turn of the 20th century with Taylorism and Human Factors Engineering through to the 1980s when Lynn Shostack first coined the term ‘Service Design’ and it began to emerge as a practice in its own right. Since then, there has been no shortage of articles, books, talks and consultancies describing the benefits, best practices and success stories of this burgeoning field. But what about the failures? What are the pitfalls, the misconceptions, the anti-patterns that can scupper even the most well-intentioned teams?
 
