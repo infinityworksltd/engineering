@@ -126,7 +126,20 @@ authors:
     web_short_name: infinityworks.com
     gravatar: d020f62245273dd85d8f7803591292e4
     linkedin: sam-quayle-6a77a992
-
+  david_postle:
+    display_name: David Postle
+    email: david.postle@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: 752ce630a50053249fa9d010f2eb5317
+    linkedin: david-postle-55aa624
+  toby_wilman:
+    display_name: Toby Wilman
+    email: toby.wilman@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: 4198808fc92471bd483f7b67cb4870c9
+    linkedin: toby-wilman-ab385095
 #
 # Flags below are optional
 #
