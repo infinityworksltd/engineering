@@ -52,8 +52,8 @@ authors:
     display_name: Ivor Caldwell
     gravatar: f84f7e176a2ffcb9010222f816b97547
     email: ivor.caldwell@infinityworks.com
-    web: https://ivorcaldwell.org
-    web_short_name: ivorcaldwell.org
+    web: https://ivorcaldwell.com
+    web_short_name: ivorcaldwell.com
     linkedin: ivor-caldwell-95930a6
   flock3:
     display_name: Thomas Gray
@@ -140,6 +140,20 @@ authors:
     web_short_name: infinityworks.com
     gravatar: 4198808fc92471bd483f7b67cb4870c9
     linkedin: toby-wilman-ab385095
+  chris_empson:
+    display_name: Chris Empson
+    email: chris.empson@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: a4b1d4138619247ab757c30a161d6217
+    linkedin: chris-empson-45881019
+  blongden:
+    display_name: Ben Longden
+    email: ben.longden@infinityworks.com
+    web: https://www.infinityworks.com
+    web_short_name: infinityworks.com
+    gravatar: 2e357a083c70d284a31c2ca200758e97
+    linkedin: blongden
 #
 # Flags below are optional
 #
